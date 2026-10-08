@@ -1,0 +1,21 @@
+#key	value
+name	AmadeusWeb Homes (Bhava)
+byline	All Homes for Metizens
+year	2019
+
+|labels and messages
+iconName	Homes at AmadeusWeb
+siteMenuName	Bhava Home
+description	A New Intimate Online World Supporting an Internet Of Missions.
+notes	Digital Homesteading for Health, Vigour and Longevity.
+footer-message	DAWN - for Metizens (Members of an Internet of Missions)
+
+|img and styles
+safeName	amadeusweb	//NOTE: used in getLogoOr
+mediakit	?palette=default
+|fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
+
+|technical
+sections	whois
+local-url	http://localhost/homes/www/
+live-url	https://homes.amadeusweb.in/
